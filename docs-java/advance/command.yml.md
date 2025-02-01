@@ -15,7 +15,7 @@ Bukkit 在默认情况下提供了一个命令覆盖系统。
 
 ### 优先级
 
-Aliases(自定义命令)＞ Plugin Commands(插件命令)＞ Bukkit Commands(Bukkit 命令)＞ Mojang Commands(Mojang 命令)。
+Aliases(自定义命令) ＞ Plugin Commands(插件命令) ＞ Bukkit Commands(Bukkit 命令) ＞ Mojang Commands(Mojang 命令)。
 
 Aliases(定义命令)：具有最高优先级，会覆盖所有命令。这意味着如果存在与某个命令匹配的别名，服务器将优先执行该别名所定义的命令。
 

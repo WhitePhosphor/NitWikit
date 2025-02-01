@@ -9,7 +9,7 @@ sidebar_position: 2
 
 ## 什么是 YAML?
 
-> YAML 是 "YAML Ain't a Markup Language"(YAML 不是一种标记语言)的递归缩写。在开发的这种语言时，YAML 的意思其实是："Yet Another Markup Language"(仍是一种标记语言)。
+> YAML 是 "YAML Ain't a Markup Language"(YAML 不是一种标记语言)的递归缩写。在开发这种语言时，YAML 的意思其实是："Yet Another Markup Language"(仍是一种标记语言)。
 >
 > YAML 的语法和其他高级语言类似，并且可以简单表达清单、散列表、标量等数据形态。它使用空白符号缩进和大量依赖外观的特色，特别适合用来表达或编辑数据结构、各种配置文件、调试内容、文件大纲(例如：许多电子邮件标题格式和 YAML 非常接近)。
 >
@@ -17,7 +17,7 @@ sidebar_position: 2
 
 Minecraft 服务器用到的 YAML 语法都是非常非常基础的，只要了解一下就可以。(甚至看看配置文件就明白了)
 
-## 概要 TL;DR
+## 概要
 
 - 大小写敏感
 - 使用缩进表示层级关系
